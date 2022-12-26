@@ -4,8 +4,6 @@
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: 
-l1=[4,2]
-l2=[10,6]
 Import math function.
 ### Step 2: 
 Assign the values of point 1 and point 2 whose distance is to be calculated.
